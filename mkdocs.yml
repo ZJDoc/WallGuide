@@ -43,3 +43,6 @@ nav:
         - 如何测速: about/如何测速.md
         - 如何加速: about/如何加速.md
         - 如何判断ip或端口被封: about/如何判断ip或端口被封.md
+    - Trojan: trojan/trojan.md
+    - 浏览器插件: plugin/switchy-omega.md
+    - 全局代理: global/ubuntu全局代理设置.md
