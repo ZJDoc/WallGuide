@@ -38,3 +38,8 @@ extra_javascript:
 # 导航
 nav:
     - Home: index.md
+    - Base:
+        - 什么是VPS: about/什么是VPS.md
+        - 如何测速: about/如何测速.md
+        - 如何加速: about/如何加速.md
+        - 如何判断ip或端口被封: about/如何判断ip或端口被封.md
